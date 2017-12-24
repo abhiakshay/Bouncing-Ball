@@ -1,0 +1,15 @@
+{
+    "name": "bouncing-ball",
+    "version": "1.0.0",
+    "description": "canvas animations",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/abhiakshay/Bouncing-Ball.git"
+    },
+    "author": "Akshay Pathare",
+    "license": "MIT ",
+    "bugs": {
+        "url": "https://github.com/abhiakshay/Bouncing-Ball/issues"
+    },
+    "homepage": "https://github.com/abhiakshay/Bouncing-Ball#readme"
+}
